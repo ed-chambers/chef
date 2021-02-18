@@ -1,0 +1,37 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans&family=Roboto:wght@300;500;900&family=Source+Serif+Pro:wght@400;700&display=swap");
+@import url("https://kit.fontawesome.com/26486068f6.js");
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+@import url("components/list");
+
+
+body {
+	font-family: 'Roboto', sans-serif;
+	font-size: 18px;
+	margin:0px;
+}
+
+h1 {
+	font-family: 'Source Serif Pro', serif;
+	font-weight: bold;
+}
+
+h2, h3 {
+	font-family: 'Roboto', sans-serif;
+	font-size: 24px;
+	font-weight: 600;
+}
+
+h3 {
+	color: #34A853;
+}
+
+h4 {
+	font-size: 18px;
+	font-weight: lighter;
+
+}
